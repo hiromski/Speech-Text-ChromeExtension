@@ -13,4 +13,5 @@ Unload the folder in the Google Chrome Extension management page. </br>
 ## How to Use
 When the extension is running, right-click on the input field and click on "Add voice text." </br>
 Allow the page to use microphone and say what you want to enter into the input field. </br>
+The extension will recognize your voice until you are done.
 
