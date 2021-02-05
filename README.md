@@ -6,6 +6,7 @@ This is a simple project I made to practice creating Google Chrome extension and
 The extension will recognize your speech when turned on and converts the speech into a text to be entered into a input field.
 
 ## Installation
+Download the folder into preferred destination. </br>
 Unload the folder in the Google Chrome Extension management page. </br>
 
 
